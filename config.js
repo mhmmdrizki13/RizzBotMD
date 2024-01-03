@@ -177,7 +177,7 @@ global.thumblvlup = [
 global.dtu = 'INSTAGRAM'
 global.urlnya = "https://www.instagram.com/ryzen_vermillion"
 global.dtc = 'CALL OWNER'
-global.phn = '0813 8730 7198'
+global.phn = '0823 1133 32831'
 
 
 /*============= JANGAN DIUBAH =============*/
