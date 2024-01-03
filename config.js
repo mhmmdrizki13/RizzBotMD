@@ -32,30 +32,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['62823113332831', 'Ikzir', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
+global.nomorbot = '62895613193050'
 global.nomorown = '6285174269046'
 global.nomorwa = '0'
 
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.author = 'Ikzirr'
+global.namebot = 'RizzMD'
+global.wm = '© RizzMD By Ikzirr'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+6285864034767`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickpack = `${namebot}`
+global.stickauth = `+62 895-6131-93050`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 /*============= OWNER INFO =============*/
-global.nameown1= 'Ryzn'
-global.nameown2 = 'Ryzn'
+global.nameown1= 'Ikzir'
+global.nameown2 = 'Ikzir'
 /*============= MEDIA LINK =============*/
 global.Linkgc = 'Bentar'
 global.lynk = ''
@@ -70,14 +70,14 @@ global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
 global.snh = 'https://www.instagram.com/ryzen_vermillion'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '082283333174'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '0895613193050'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
-global.bank1 = '109901209640'
+global.ppulsa = '0895613193050'
+global.ppulsa2 = '082283333174'
+global.psaweria = 'https://saweria.co/-'
+global.bank1 = '-'
 global.bank2 = '-'
 
 
@@ -102,8 +102,8 @@ global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙
 global.pmenus = '✦'
 global.htki = '––––––『' // Hiasan Titile (KIRI)
 global.htka = '』––––––' // Hiasan Title  (KANAN)
-global.lopr = 'Ⓟ' //LOGO PREMIUM ON MENU.JS
-global.lolm = 'Ⓛ' //LOGO LIMIT/FREE ON MENU.JS
+global.lopr = 'Ⓟ Premium Only' //LOGO PREMIUM ON MENU.JS
+global.lolm = 'Ⓛ Limit Used' //LOGO LIMIT/FREE ON MENU.JS
 global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
@@ -113,7 +113,7 @@ global.eror = 'Error!'
 
 /*============= WEB API KEY =============*/
 global.deepai = 'YOUR_APIKEY_HERE'
-global.openai = 'YOUR_APIKEY_HERE'  //api key bisa didapatkan dari https://openai.com/api/
+global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
 global.rose = 'Rs-Zeltoria'
 global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://skizo.tech/
