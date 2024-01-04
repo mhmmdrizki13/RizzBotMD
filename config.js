@@ -116,7 +116,7 @@ global.deepai = 'YOUR_APIKEY_HERE'
 global.openai = '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'  //api key bisa didapatkan dari https://openai.com/api/
 global.org = 'YOUR_APIKEY_HERE'  //openAI Organization name
 global.rose = 'Rs-Zeltoria'
-global.xzn = 'YOUR_APIKEY_HERE' //daftar sendiri jika key habis https://skizo.tech/
+global.xzn = 'rizzbotmd' //daftar sendiri jika key habis https://skizo.tech/
 global.xyro = 'YOUR_APIKEY_HERE' //https://api.xyroinee.xyz/
 global.ryzen = 'YOUR_APIKEY_HERE' //daftar di apis.ryzendesu.com/
 
@@ -130,7 +130,7 @@ global.APIs = {
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
 
-  'https://skizo.tech/' : '',
+  'https://skizo.tech/' : 'rizzbotmd',
   'https://api.itsrose.site/': 'Rs-Zeltoria'
 }
 
